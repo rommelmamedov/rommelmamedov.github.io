@@ -10,7 +10,7 @@ LinkedIn: [linkedin.com/in/ramilmamedov](https://linkedin.com/in/ramilmamedov)
 
 ## 👨‍💻 About
 
-Senior Frontend Engineer with **6+ years of experience** crafting high-performance, user-centric web applications. Proficient in **React, TypeScript, Next.js, and GraphQL**, with a strong focus on **performance optimization, accessibility, and scalable architecture**. Experienced in migrating legacy systems to modern stacks and leading frontend initiatives in cross-functional, multilingual teams.
+Senior Frontend Engineer with **7+ years of experience** crafting high-performance, user-centric web applications. Proficient in **React, TypeScript, Next.js, and GraphQL**, with a strong focus on **performance optimization, accessibility, and scalable architecture**. Experienced in migrating legacy systems to modern stacks and leading frontend initiatives in cross-functional, multilingual teams.
 
 ---
 
