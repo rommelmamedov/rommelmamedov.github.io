@@ -29,30 +29,34 @@ Senior Frontend Engineer with **6+ years of experience** crafting high-performan
 
 ## 💼 Work Experience
 
-**Thrive Career Wellness | Toronto, Canada**
-*Senior Frontend Engineer* | May 2023 – Present
+**Senior Frontend Engineer** / Toronto, Canada
+<br/>
+*Thrive Career Wellness* / May 2023 – Present
 
 * Migrated React app from CRA to Vite (11x faster start, 5x faster builds, 82% smaller bundle).
 * Transitioned testing from Jest to Vitest, improving test speed and coverage (incl. TypeScript).
 * Led migration of 80% of API calls to GraphQL with React Query, improving state management.
 * Migrating Ember.js pages to React.js (50% completed) for maintainability and consistency.
 
-**Webisoft | Montreal, Canada**
-*Frontend Engineer* | May 2022 – May 2023
+**Frontend Engineer** / Montreal, Canada
+<br/>
+*Webisoft* / May 2022 – May 2023
 
 * Built blockchain-based UI applications (NFT marketplace, P2P poker) using Next.js, React, Redux.
 * Integrated Ethereum, Solana, and Terra wallets (MetaMask, Phantom).
 * Collaborated with blockchain specialists using CosmJS, Keplr, WASM, Matrix SDK.
 
-**Creditinfo | Prague, Czech Republic**
-*Frontend Engineer* | May 2021 – May 2022
+**Frontend Engineer** / Prague, Czech Republic
+<br/>
+*Creditinfo* / May 2021 – May 2022
 
 * Refactored legacy JavaScript to TypeScript, improving type safety and maintainability.
 * Implemented Storybook for isolated component testing.
 * Built reusable components to streamline the codebase.
 
-**Buglance | Dubai, UAE**
-*Frontend Lead* | Jan 2020 – May 2021
+**Frontend Lead** / Dubai, UAE
+<br/>
+*Buglance* / Jan 2020 – May 2021
 
 * Led frontend team to develop reusable, responsive UI components.
 * Ensured high code quality and optimized user experience across web/mobile-first apps.
