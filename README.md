@@ -20,10 +20,9 @@ Senior Frontend Engineer with **7+ years of experience** crafting high-performan
 * **Languages:** TypeScript, JavaScript, HTML, CSS
 * **Styling:** Tailwind CSS, SASS, PostCSS
 * **Tooling:** Vite, Webpack, Storybook, Vitest, Jest, Playwright
-* **Design Tools:** Figma, Adobe XD, Photoshop, Illustrator
-* **Backend (familiar):** Node.js, Express, Ruby on Rails, Django
+* **Backend:** Node.js, Express, Ruby on Rails, Django
 * **Other:** SEO optimization, Web Accessibility, CI/CD, microservices, PWA
-* **Blockchain (previous experience):** Ethereum, Solana, Terra, MetaMask, Phantom
+* **Blockchain:** Ethereum, Solana, Terra, MetaMask, Phantom
 
 ---
 
