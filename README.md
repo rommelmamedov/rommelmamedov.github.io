@@ -1,16 +1,16 @@
 # Ramil Mamedov
 
-Email: [rommelmamedov@gmail.com](mailto:rommelmamedov@gmail.com)
 
-GitHub: [github.com/rommelmamedov](https://github.com/rommelmamedov)
-
-LinkedIn: [linkedin.com/in/ramilmamedov](https://linkedin.com/in/ramilmamedov)
-
----
 
 ## 👨‍💻 About
 
 Senior Frontend Engineer with **7+ years of experience** crafting high-performance, user-centric web applications. Proficient in **React, TypeScript, Next.js, and GraphQL**, with a strong focus on **performance optimization, accessibility, and scalable architecture**. Experienced in migrating legacy systems to modern stacks and leading frontend initiatives in cross-functional, multilingual teams.
+
+---
+
+- [rommelmamedov@gmail.com](mailto:rommelmamedov@gmail.com)
+- [github.com/rommelmamedov](https://github.com/rommelmamedov)
+- [linkedin.com/in/ramilmamedov](https://linkedin.com/in/ramilmamedov)
 
 ---
 
