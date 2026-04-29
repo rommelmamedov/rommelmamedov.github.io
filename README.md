@@ -1,73 +1,115 @@
 # Ramil Mamedov
 
-
-
 ## 👨‍💻 About
 
-Senior Frontend Engineer with **7+ years of experience** crafting high-performance, user-centric web applications. Proficient in **React, TypeScript, Next.js, and GraphQL**, with a strong focus on **performance optimization, accessibility, and scalable architecture**. Experienced in migrating legacy systems to modern stacks and leading frontend initiatives in cross-functional, multilingual teams.
+Senior Frontend Engineer with 8+ years of experience building and scaling production-grade web applications.
+
+Most recently, I worked as a **Founding Senior Frontend Engineer** on a real-time AI platform, building the frontend from scratch and scaling it to ~1M users. I focus on **system design, performance, and real-time applications**, going beyond UI into architecture, reliability, and data flow.
+
+Strong experience with **React, TypeScript, SSR, and WebSockets**, as well as analytics systems, payment flows, and frontend infrastructure.
 
 ---
 
-- [rommelmamedov@gmail.com](mailto:rommelmamedov@gmail.com)
-- [github.com/rommelmamedov](https://github.com/rommelmamedov)
-- [linkedin.com/in/ramilmamedov](https://linkedin.com/in/ramilmamedov)
+- rommelmamedov@gmail.com  
+- github.com/rommelmamedov  
+- linkedin.com/in/ramilmamedov  
 
 ---
 
 ## 🛠️ Technical Skills
 
-* **Frontend:** React.js, Next.js, Ember.js, Solid.js, Zustand, Redux, GraphQL, REST
-* **Languages:** TypeScript, JavaScript, HTML, CSS
-* **Styling:** Tailwind CSS, SASS, PostCSS
-* **Tooling:** Vite, Webpack, Storybook, Vitest, Jest, Playwright
-* **Backend:** Node.js, Express, Ruby on Rails, Django
-* **Other:** SEO optimization, Web Accessibility, CI/CD, microservices, PWA
-* **Blockchain:** Ethereum, Solana, Terra, MetaMask, Phantom
+**Core:** React, TypeScript, Next.js, React Router (SSR)  
+**Systems:** WebSockets, SSR, client-server architecture, event-driven UX  
+**State & Data:** Zustand, TanStack Query, GraphQL, REST  
+**Performance:** Web Vitals, bundle optimization, code splitting  
+**Styling:** Tailwind CSS, SASS, PostCSS  
+**Testing:** Vitest, React Testing Library, Playwright  
+**Tooling:** Vite, Bun, OXC, Storybook, monorepos  
+**Analytics:** GTM, PostHog, event tracking systems  
+**Backend & Infra:** Node.js, Express, Firebase, Docker, CI/CD  
+
+---
+
+## ⚙️ Selected Systems
+
+### Real-time Chat Platform
+- Designed WebSocket-based architecture for real-time messaging
+- Implemented message sync, media handling, and streaming updates
+- Optimized for high-frequency interactions and low-latency UX
+
+### Frontend Performance System
+- Reduced LCP from ~20s → ~3s across core flows
+- Decreased mobile payload from ~4.3MB → ~1.7MB
+- Improved critical rendering path, resource loading, and hydration
+
+### Analytics & Event Pipeline
+- Built GTM + PostHog tracking system with custom data layer
+- Designed event architecture for both product and marketing use cases
+- Enabled reliable tracking across user flows and experiments
+
+### Payments System
+- Implemented subscriptions and async checkout flows
+- Integrated 3DS authentication and handled failure edge cases
+- Supported virtual currency and transaction tracking flows
 
 ---
 
 ## 💼 Work Experience
 
-**Senior Frontend Engineer** / May 2023 – Present
-<br/>
-*Thrive Career Wellness* / Toronto, Canada
+### **Founding Senior Frontend Engineer**  
+**Identity AI Labs** / Mar 2025 – Present
 
-* Migrated React app from CRA to Vite (11x faster start, 5x faster builds, 82% smaller bundle).
-* Transitioned testing from Jest to Vitest, improving test speed and coverage (incl. TypeScript).
-* Led migration of 80% of API calls to GraphQL with React Query, improving state management.
-* Migrating Ember.js pages to React.js (50% completed) for maintainability and consistency.
+- Built and scaled a real-time AI platform from MVP to ~1M+ users, owning frontend architecture end-to-end
+- Led a full performance overhaul (LCP ~20s → ~3s, significant bundle and payload reduction)
+- Built real-time chat system (WebSockets, media, voice) optimized for responsiveness
+- Designed frontend architecture across SSR, data loading, CDN delivery, and analytics
+- Built analytics system (GTM, PostHog, custom event layer)
+- Implemented complex payment flows (subscriptions, async checkout, virtual currency)
 
-**Frontend Engineer** / May 2022 – May 2023
-<br/>
-*Webisoft* / Montreal, Canada
+---
 
-* Built blockchain-based UI applications (NFT marketplace, P2P poker) using Next.js, React, Redux.
-* Integrated Ethereum, Solana, and Terra wallets (MetaMask, Phantom).
-* Collaborated with blockchain specialists using CosmJS, Keplr, WASM, Matrix SDK.
+### **Senior Frontend Engineer**  
+**Thrive Career Wellness** / May 2023 – Aug 2025
 
-**Frontend Engineer** / May 2021 – May 2022
-<br/>
-*Creditinfo* / Prague, Czech Republic
+- Led CRA → Vite migration (−82% bundle size, major dev speed improvements)
+- Migrated ~80% of API layer from REST → GraphQL (React Query)
+- Led Ember → React migration (~80% of UI)
+- Improved testing setup (Jest → Vitest) and developer workflows
+- Contributed to architecture decisions in a large monorepo
 
-* Refactored legacy JavaScript to TypeScript, improving type safety and maintainability.
-* Implemented Storybook for isolated component testing.
-* Built reusable components to streamline the codebase.
+---
 
-**Frontend Lead** / Jan 2020 – May 2021
-<br/>
-*Buglance* / Dubai, UAE
+### **Senior Frontend Engineer**  
+**Webisoft** / May 2022 – Apr 2023
 
-* Led frontend team to develop reusable, responsive UI components.
-* Ensured high code quality and optimized user experience across web/mobile-first apps.
+- Built blockchain-based applications (NFT marketplace, P2P poker)
+- Integrated wallets (MetaMask, Phantom) across Ethereum and Solana
+- Worked on real-time and async transaction flows
+
+---
+
+### **Frontend Engineer**  
+**Limestone Digital / Creditinfo** / May 2021 – May 2022
+
+- Migrated legacy JavaScript codebase to TypeScript
+- Introduced Storybook and improved component architecture
+- Built reusable UI systems for enterprise applications
+
+---
+
+### **Frontend Lead**  
+**Buglance** / Jan 2020 – May 2021
+
+- Led frontend development across SaaS platform
+- Built reusable component systems and defined standards
+- Collaborated closely with product and backend teams
 
 ---
 
 ## 🎓 Education
 
-**Computer Systems Technician (Postgraduate)** / 2021 – 2022
-<br/>
-*George Brown College* / Toronto, Canada
+**Computer Systems Technician (Postgraduate)**  
+George Brown College  
 
-**B.Sc. Civil Engineering** / 2014 – 2018
-<br/>
-*Azerbaijan State Oil and Industry University* / Baku, Azerbaijan
+**B.Sc. Civil Engineering**  
+Azerbaijan State Oil and Industry University  
