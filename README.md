@@ -10,9 +10,9 @@ Strong experience with **React, TypeScript, SSR, and WebSockets**, as well as an
 
 ---
 
-- rommelmamedov@gmail.com  
-- github.com/rommelmamedov  
-- linkedin.com/in/ramilmamedov  
+- [rommelmamedov@gmail.com](mailto:rommelmamedov@gmail.com)
+- [github.com/rommelmamedov](github.com/rommelmamedov)
+- [linkedin.com/in/ramilmamedov](linkedin.com/in/ramilmamedov)
 
 ---
 
