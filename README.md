@@ -67,7 +67,6 @@ Based in **Madrid, Spain**, open to remote opportunities across the EU and globa
 
 ### **Founding Senior Frontend Engineer**  
 **Identity AI Labs** / Mar 2025 – Present  
-_Concurrent with Thrive Career Wellness through Aug 2025_
 
 - Built and scaled a real-time AI platform from MVP to ~1M+ users, owning frontend architecture and system design end-to-end
 - Set frontend standards, led code reviews, and mentored engineers
