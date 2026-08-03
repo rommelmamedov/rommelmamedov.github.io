@@ -13,8 +13,8 @@ Based in **Madrid, Spain**, open to remote opportunities across the EU and globa
 ---
 
 - [rommelmamedov@gmail.com](mailto:rommelmamedov@gmail.com)
-- [github.com/rommelmamedov](github.com/rommelmamedov)
-- [linkedin.com/in/ramilmamedov](linkedin.com/in/ramilmamedov)
+- [github.com/rommelmamedov](https://github.com/rommelmamedov)
+- [linkedin.com/in/ramilmamedov](https://www.linkedin.com/in/ramilmamedov)
 
 ---
 
