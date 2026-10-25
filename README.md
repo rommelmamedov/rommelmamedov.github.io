@@ -160,7 +160,7 @@ Own Adia's shared lab-ordering experience across multiple applications. I lead d
 ## 🎓 Education
 
 **Computer Systems Technician, Postgraduate Diploma**  
-George Brown College / Jan 2021 – Apr 2022  
+George Brown Polytechnic / Jan 2021 – Apr 2022  
 
 **B.Sc. Civil Engineering**  
 Azerbaijan State Oil and Industry University / Sep 2014 – May 2018  
