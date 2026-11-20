@@ -2,11 +2,9 @@
 
 ## 👨‍💻 About
 
-Senior Frontend Engineer with 9+ years of experience building and scaling production-grade web applications.
+Senior software engineer with 9+ years of experience. At Adia Health, I build tools clinicians use to order lab tests from the patient chart and work across frontend, backend, and deployment.
 
-At Identity AI Labs, I was the **Founding Senior Software Engineer** on a real-time AI platform. I built the frontend from MVP and helped scale it to ~1M users. I focus on **system design, performance, real-time applications, and frontend architecture**, going beyond UI into reliability, data flow, observability, and production performance.
-
-Strong experience with **React, TypeScript, Next.js, SSR, WebSockets, GraphQL, and scalable frontend systems**, as well as analytics, payment flows, browser extensions, design systems, and frontend infrastructure.
+Previously, as **Founding Senior Software Engineer** at Identity AI Labs, I owned the frontend architecture of a real-time AI companion platform that grew from MVP to about one million users. I cut mobile LCP from about 20 seconds to 3 seconds.
 
 Based in **Madrid, Spain**, open to remote opportunities across the EU and globally.
 
@@ -68,12 +66,14 @@ Based in **Madrid, Spain**, open to remote opportunities across the EU and globa
 ### **Senior Frontend Engineer**  
 **Adia Health** / Aug 2026 – Present · Remote from Madrid, Spain
 
-Own Adia's shared lab-ordering experience across multiple applications. I lead delivery of extension and product areas end to end across frontend, backend, deployment, QA, launch readiness, and UI/UX, and rebuilt the payment flow.
+- Built and shipped a Chrome extension and a shared ordering panel that lets clinicians review recommendations alongside existing orders and send approved lab orders back to the patient chart.
+- Rebuilt the patient payment app in TanStack Start and migrated the internal operations console to shared components in stages.
+- Own delivery across frontend, backend, UI/UX, QA, deployment, and launch readiness.
 
 ---
 
 ### **Founding Senior Software Engineer**  
-**Identity AI Labs** / Mar 2025 – Apr 2026 · Contract, full-time  
+**Identity AI Labs** / Mar 2025 – Jul 2026 · Contract, full-time
 
 - Built and scaled a real-time AI platform from MVP to ~1M+ users, owning frontend architecture and system design end-to-end
 - Set frontend standards, led code reviews, and mentored engineers
